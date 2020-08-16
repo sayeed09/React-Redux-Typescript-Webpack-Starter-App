@@ -1,7 +1,5 @@
 # React Redux Typescript Webpack Starter Kit
 
-This is repository is created to help bootstrap a React-Redux application.
-
 ## Requirements
 
 - node `8.9.0`
